@@ -1,0 +1,15 @@
+h1,h2,h3{
+    font-family: "JetBrains Mono", monospace;
+    color:rgba(231, 238, 23, 0.859);
+    background-color: rgba(0, 0, 0, 0.751);
+    width: 300px;
+}
+p{
+    font-family: "Carter One", system-ui;
+}
+
+.backgroundbody{
+    background-image:url("./Bcg.avif") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
